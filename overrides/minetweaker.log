@@ -1,0 +1,14 @@
+ERROR: system: MolecularTransformer is already defined in that package
+ERROR: system: Synthesis is already defined in that package
+ERROR: system: AlloySmelter is already defined in that package
+ERROR: system: Enrich is already defined in that package
+ERROR: system: AdvAlloySmelter is already defined in that package
+ERROR: system: Fermer is already defined in that package
+ERROR: system: GenMicrochip is already defined in that package
+ERROR: system: DoubleMolecularTransformer is already defined in that package
+ERROR: system: MatterRecipe is already defined in that package
+INFO: Dummy action for catching reload event
+ERROR: system: Crop is already defined in that package
+ERROR: system: AutoSpawner is already defined in that package
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
