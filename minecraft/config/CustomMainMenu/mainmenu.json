@@ -1,0 +1,154 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "mainmenu:logoother.png",
+            "posX" : -95,
+            "posY" : -100,
+            "width" : 200,
+            "height" : 267,
+            "alignment" : "center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -103,
+            "posY" : -175,
+            "width" : 98,
+            "height" : 20,
+			"texture" : "mainmenu:shortbutton.png",
+			"alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -103,
+            "posY" : -150,
+            "width" : 98,
+            "height" : 20,
+			"texture" : "mainmenu:shortbutton.png",
+			"alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : -103,
+            "posY" : -125,
+            "width" : 98,
+            "height" : 20,
+			"texture" : "mainmenu:shortbutton.png",
+			"alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -103,
+            "posY" : -100,
+            "width" : 98,
+            "height" : 20,
+			"texture" : "mainmenu:shortbutton.png",
+			"alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : -103,
+            "posY" : -75,
+            "width" : 98,
+            "height" : 20,
+			"texture" : "mainmenu:shortbutton.png",
+			"alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+		
+		"Memes":
+        {
+            "text" : "Memes",
+            "posX" : -103,
+            "posY" : -50,
+            "width" : 98,
+            "height" : 20,
+			"texture" : "mainmenu:shortbutton.png",
+			"tooltip": "Memes",
+			"alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+            }
+        },
+		
+		"More memes":
+        {
+            "text" : "More memes",
+            "posX" : -103,
+            "posY" : -25,
+            "width" : 98,
+            "height" : 20,
+			"texture" : "mainmenu:shortbutton.png",
+			"tooltip": "More Memes",
+			"alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+            }
+        }
+		
+    },
+    
+    "texts":
+    {
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -55,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        
+        "background":
+        {
+            "image" : "mainmenu:BlackHoleBG.jpg",
+			"mode":"fill"
+
+        }
+    }
+}

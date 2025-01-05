@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "forge-1.7.10-10.13.4.1614-1.7.10-universal",
+            "MMC-filename": "103991b4-7c41-45b8-9398-32432d0510a6.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:103991b4-7c41-45b8-9398-32432d0510a6:1"
+        }
+    ],
+    "name": "forge-1.7.10-10.13.4.1614-1.7.10-universal (jar mod)",
+    "uid": "org.multimc.jarmod.103991b4-7c41-45b8-9398-32432d0510a6"
+}

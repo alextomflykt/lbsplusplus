@@ -1,0 +1,910 @@
+ERROR: system: MolecularTransformer is already defined in that package
+ERROR: system: Synthesis is already defined in that package
+ERROR: system: AlloySmelter is already defined in that package
+ERROR: system: Enrich is already defined in that package
+ERROR: system: AdvAlloySmelter is already defined in that package
+ERROR: system: Fermer is already defined in that package
+ERROR: system: GenMicrochip is already defined in that package
+ERROR: system: DoubleMolecularTransformer is already defined in that package
+ERROR: system: MatterRecipe is already defined in that package
+INFO: Dummy action for catching reload event
+ERROR: system: Crop is already defined in that package
+ERROR: system: AutoSpawner is already defined in that package
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Dummy action for catching reload event
+INFO: Adding minetweaker command mfr
+INFO: Adding Red Granite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Black Granite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Rhyolite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Andesite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Gabbro Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Basalt Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Komatiite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Dacite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Gneiss Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Eclogite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Marble Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Quartzite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Blue Schist Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Green Schist Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Soapstone Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Migmatite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Limestone Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Chalk Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Shale Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Siltstone Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Lignite Block Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Dolomite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Greywacke Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Chert Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Copying contents of ore dictionary entry ubgOreCoal to oreCoal
+INFO: Adding Red Granite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Black Granite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Rhyolite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Andesite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Gabbro Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Basalt Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Komatiite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Dacite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Gneiss Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Eclogite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Marble Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Quartzite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Blue Schist Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Green Schist Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Soapstone Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Migmatite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Limestone Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Chalk Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Shale Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Siltstone Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Lignite Block Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Dolomite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Greywacke Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Chert Iron Ore to ore dictionary entry ubgOreIron
+INFO: Copying contents of ore dictionary entry ubgOreIron to oreIron
+INFO: Adding Red Granite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Black Granite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Rhyolite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Andesite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Gabbro Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Basalt Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Komatiite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Dacite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Gneiss Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Eclogite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Marble Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Quartzite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Blue Schist Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Green Schist Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Soapstone Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Migmatite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Limestone Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Chalk Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Shale Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Siltstone Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Lignite Block Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Dolomite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Greywacke Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Chert Gold Ore to ore dictionary entry ubgOreGold
+INFO: Copying contents of ore dictionary entry ubgOreGold to oreGold
+INFO: Adding Red Granite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Black Granite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Rhyolite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Andesite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Gabbro Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Basalt Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Komatiite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Dacite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Gneiss Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Eclogite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Marble Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Quartzite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Blue Schist Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Green Schist Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Soapstone Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Migmatite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Limestone Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Chalk Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Shale Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Siltstone Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Lignite Block Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Dolomite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Greywacke Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Chert Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Copying contents of ore dictionary entry ubgOreRedstone to oreRedstone
+INFO: Adding Red Granite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Black Granite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Rhyolite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Andesite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Gabbro Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Basalt Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Komatiite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Dacite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Gneiss Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Eclogite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Marble Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Quartzite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Blue Schist Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Green Schist Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Soapstone Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Migmatite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Limestone Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Chalk Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Shale Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Siltstone Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Lignite Block Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Dolomite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Greywacke Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Chert Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Copying contents of ore dictionary entry ubgOreLapis to oreLapis
+INFO: Adding Red Granite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Black Granite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Rhyolite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Andesite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Gabbro Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Basalt Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Komatiite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Dacite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Gneiss Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Eclogite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Marble Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Quartzite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Blue Schist Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Green Schist Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Soapstone Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Migmatite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Limestone Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Chalk Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Shale Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Siltstone Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Lignite Block Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Dolomite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Greywacke Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Chert Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Copying contents of ore dictionary entry ubgOreDiamond to oreDiamond
+INFO: Adding Red Granite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Black Granite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Rhyolite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Andesite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Gabbro Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Basalt Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Komatiite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Dacite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Gneiss Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Eclogite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Marble Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Quartzite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Blue Schist Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Green Schist Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Soapstone Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Migmatite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Limestone Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Chalk Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Shale Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Siltstone Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Lignite Block Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Dolomite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Greywacke Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Chert Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Copying contents of ore dictionary entry ubgOreEmerald to oreEmerald
+INFO: Copying contents of ore dictionary entry blockQuartz to burntQuartz
+INFO: Copying contents of ore dictionary entry burntQuartz to blockQuartz
+INFO: Dummy action for catching reload event
+INFO: Dummy action for catching reload event
+INFO: Removing contents of ore dictionary entry burntQuartz from blockQuartz
+INFO: Removing contents of ore dictionary entry blockQuartz from burntQuartz
+INFO: Removing contents of ore dictionary entry ubgOreEmerald from oreEmerald
+INFO: Removing Chert Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Greywacke Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Dolomite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Lignite Block Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Siltstone Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Shale Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Chalk Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Limestone Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Migmatite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Soapstone Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Green Schist Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Blue Schist Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Quartzite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Marble Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Eclogite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Gneiss Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Dacite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Komatiite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Basalt Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Gabbro Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Andesite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Rhyolite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Black Granite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Red Granite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing contents of ore dictionary entry ubgOreDiamond from oreDiamond
+INFO: Removing Chert Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Greywacke Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Dolomite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Lignite Block Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Siltstone Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Shale Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Chalk Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Limestone Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Migmatite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Soapstone Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Green Schist Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Blue Schist Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Quartzite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Marble Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Eclogite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Gneiss Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Dacite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Komatiite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Basalt Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Gabbro Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Andesite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Rhyolite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Black Granite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Red Granite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing contents of ore dictionary entry ubgOreLapis from oreLapis
+INFO: Removing Chert Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Greywacke Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Dolomite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Lignite Block Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Siltstone Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Shale Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Chalk Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Limestone Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Migmatite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Soapstone Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Green Schist Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Blue Schist Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Quartzite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Marble Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Eclogite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Gneiss Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Dacite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Komatiite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Basalt Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Gabbro Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Andesite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Rhyolite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Black Granite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Red Granite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing contents of ore dictionary entry ubgOreRedstone from oreRedstone
+INFO: Removing Chert Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Greywacke Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Dolomite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Lignite Block Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Siltstone Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Shale Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Chalk Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Limestone Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Migmatite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Soapstone Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Green Schist Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Blue Schist Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Quartzite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Marble Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Eclogite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Gneiss Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Dacite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Komatiite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Basalt Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Gabbro Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Andesite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Rhyolite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Black Granite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Red Granite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing contents of ore dictionary entry ubgOreGold from oreGold
+INFO: Removing Chert Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Greywacke Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Dolomite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Lignite Block Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Siltstone Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Shale Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Chalk Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Limestone Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Migmatite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Soapstone Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Green Schist Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Blue Schist Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Quartzite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Marble Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Eclogite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Gneiss Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Dacite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Komatiite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Basalt Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Gabbro Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Andesite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Rhyolite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Black Granite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Red Granite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing contents of ore dictionary entry ubgOreIron from oreIron
+INFO: Removing Chert Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Greywacke Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Dolomite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Lignite Block Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Siltstone Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Shale Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Chalk Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Limestone Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Migmatite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Soapstone Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Green Schist Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Blue Schist Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Quartzite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Marble Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Eclogite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Gneiss Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Dacite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Komatiite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Basalt Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Gabbro Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Andesite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Rhyolite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Black Granite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Red Granite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing contents of ore dictionary entry ubgOreCoal from oreCoal
+INFO: Removing Chert Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Greywacke Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Dolomite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Lignite Block Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Siltstone Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Shale Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Chalk Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Limestone Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Migmatite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Soapstone Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Green Schist Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Blue Schist Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Quartzite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Marble Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Eclogite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Gneiss Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Dacite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Komatiite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Basalt Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Gabbro Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Andesite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Rhyolite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Black Granite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Red Granite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing minetweaker command mfr
+INFO: Adding minetweaker command mfr
+INFO: Adding Red Granite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Black Granite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Rhyolite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Andesite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Gabbro Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Basalt Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Komatiite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Dacite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Gneiss Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Eclogite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Marble Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Quartzite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Blue Schist Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Green Schist Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Soapstone Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Migmatite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Limestone Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Chalk Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Shale Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Siltstone Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Lignite Block Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Dolomite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Greywacke Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Chert Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Copying contents of ore dictionary entry ubgOreCoal to oreCoal
+INFO: Adding Red Granite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Black Granite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Rhyolite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Andesite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Gabbro Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Basalt Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Komatiite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Dacite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Gneiss Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Eclogite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Marble Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Quartzite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Blue Schist Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Green Schist Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Soapstone Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Migmatite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Limestone Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Chalk Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Shale Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Siltstone Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Lignite Block Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Dolomite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Greywacke Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Chert Iron Ore to ore dictionary entry ubgOreIron
+INFO: Copying contents of ore dictionary entry ubgOreIron to oreIron
+INFO: Adding Red Granite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Black Granite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Rhyolite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Andesite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Gabbro Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Basalt Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Komatiite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Dacite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Gneiss Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Eclogite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Marble Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Quartzite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Blue Schist Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Green Schist Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Soapstone Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Migmatite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Limestone Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Chalk Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Shale Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Siltstone Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Lignite Block Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Dolomite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Greywacke Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Chert Gold Ore to ore dictionary entry ubgOreGold
+INFO: Copying contents of ore dictionary entry ubgOreGold to oreGold
+INFO: Adding Red Granite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Black Granite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Rhyolite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Andesite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Gabbro Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Basalt Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Komatiite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Dacite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Gneiss Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Eclogite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Marble Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Quartzite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Blue Schist Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Green Schist Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Soapstone Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Migmatite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Limestone Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Chalk Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Shale Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Siltstone Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Lignite Block Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Dolomite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Greywacke Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Chert Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Copying contents of ore dictionary entry ubgOreRedstone to oreRedstone
+INFO: Adding Red Granite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Black Granite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Rhyolite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Andesite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Gabbro Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Basalt Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Komatiite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Dacite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Gneiss Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Eclogite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Marble Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Quartzite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Blue Schist Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Green Schist Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Soapstone Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Migmatite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Limestone Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Chalk Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Shale Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Siltstone Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Lignite Block Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Dolomite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Greywacke Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Chert Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Copying contents of ore dictionary entry ubgOreLapis to oreLapis
+INFO: Adding Red Granite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Black Granite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Rhyolite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Andesite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Gabbro Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Basalt Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Komatiite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Dacite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Gneiss Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Eclogite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Marble Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Quartzite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Blue Schist Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Green Schist Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Soapstone Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Migmatite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Limestone Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Chalk Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Shale Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Siltstone Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Lignite Block Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Dolomite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Greywacke Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Chert Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Copying contents of ore dictionary entry ubgOreDiamond to oreDiamond
+INFO: Adding Red Granite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Black Granite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Rhyolite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Andesite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Gabbro Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Basalt Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Komatiite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Dacite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Gneiss Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Eclogite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Marble Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Quartzite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Blue Schist Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Green Schist Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Soapstone Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Migmatite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Limestone Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Chalk Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Shale Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Siltstone Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Lignite Block Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Dolomite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Greywacke Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Chert Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Copying contents of ore dictionary entry ubgOreEmerald to oreEmerald
+INFO: Copying contents of ore dictionary entry blockQuartz to burntQuartz
+INFO: Copying contents of ore dictionary entry burntQuartz to blockQuartz
+INFO: Dummy action for catching reload event
+INFO: Dummy action for catching reload event
+INFO: Removing contents of ore dictionary entry burntQuartz from blockQuartz
+INFO: Removing contents of ore dictionary entry blockQuartz from burntQuartz
+INFO: Removing contents of ore dictionary entry ubgOreEmerald from oreEmerald
+INFO: Removing Chert Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Greywacke Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Dolomite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Lignite Block Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Siltstone Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Shale Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Chalk Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Limestone Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Migmatite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Soapstone Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Green Schist Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Blue Schist Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Quartzite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Marble Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Eclogite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Gneiss Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Dacite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Komatiite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Basalt Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Gabbro Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Andesite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Rhyolite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Black Granite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing Red Granite Emerald Ore from ore dictionary entry ubgOreEmerald
+INFO: Removing contents of ore dictionary entry ubgOreDiamond from oreDiamond
+INFO: Removing Chert Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Greywacke Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Dolomite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Lignite Block Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Siltstone Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Shale Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Chalk Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Limestone Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Migmatite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Soapstone Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Green Schist Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Blue Schist Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Quartzite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Marble Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Eclogite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Gneiss Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Dacite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Komatiite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Basalt Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Gabbro Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Andesite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Rhyolite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Black Granite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing Red Granite Diamond Ore from ore dictionary entry ubgOreDiamond
+INFO: Removing contents of ore dictionary entry ubgOreLapis from oreLapis
+INFO: Removing Chert Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Greywacke Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Dolomite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Lignite Block Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Siltstone Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Shale Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Chalk Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Limestone Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Migmatite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Soapstone Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Green Schist Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Blue Schist Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Quartzite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Marble Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Eclogite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Gneiss Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Dacite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Komatiite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Basalt Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Gabbro Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Andesite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Rhyolite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Black Granite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing Red Granite Lapis Lazuli Ore from ore dictionary entry ubgOreLapis
+INFO: Removing contents of ore dictionary entry ubgOreRedstone from oreRedstone
+INFO: Removing Chert Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Greywacke Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Dolomite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Lignite Block Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Siltstone Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Shale Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Chalk Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Limestone Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Migmatite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Soapstone Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Green Schist Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Blue Schist Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Quartzite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Marble Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Eclogite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Gneiss Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Dacite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Komatiite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Basalt Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Gabbro Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Andesite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Rhyolite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Black Granite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing Red Granite Redstone Ore from ore dictionary entry ubgOreRedstone
+INFO: Removing contents of ore dictionary entry ubgOreGold from oreGold
+INFO: Removing Chert Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Greywacke Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Dolomite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Lignite Block Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Siltstone Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Shale Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Chalk Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Limestone Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Migmatite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Soapstone Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Green Schist Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Blue Schist Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Quartzite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Marble Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Eclogite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Gneiss Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Dacite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Komatiite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Basalt Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Gabbro Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Andesite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Rhyolite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Black Granite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing Red Granite Gold Ore from ore dictionary entry ubgOreGold
+INFO: Removing contents of ore dictionary entry ubgOreIron from oreIron
+INFO: Removing Chert Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Greywacke Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Dolomite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Lignite Block Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Siltstone Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Shale Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Chalk Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Limestone Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Migmatite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Soapstone Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Green Schist Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Blue Schist Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Quartzite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Marble Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Eclogite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Gneiss Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Dacite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Komatiite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Basalt Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Gabbro Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Andesite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Rhyolite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Black Granite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing Red Granite Iron Ore from ore dictionary entry ubgOreIron
+INFO: Removing contents of ore dictionary entry ubgOreCoal from oreCoal
+INFO: Removing Chert Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Greywacke Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Dolomite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Lignite Block Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Siltstone Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Shale Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Chalk Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Limestone Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Migmatite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Soapstone Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Green Schist Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Blue Schist Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Quartzite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Marble Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Eclogite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Gneiss Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Dacite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Komatiite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Basalt Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Gabbro Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Andesite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Rhyolite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Black Granite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing Red Granite Coal Ore from ore dictionary entry ubgOreCoal
+INFO: Removing minetweaker command mfr
+INFO: Adding minetweaker command mfr
+INFO: Adding Red Granite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Black Granite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Rhyolite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Andesite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Gabbro Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Basalt Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Komatiite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Dacite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Gneiss Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Eclogite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Marble Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Quartzite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Blue Schist Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Green Schist Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Soapstone Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Migmatite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Limestone Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Chalk Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Shale Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Siltstone Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Lignite Block Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Dolomite Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Greywacke Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Adding Chert Coal Ore to ore dictionary entry ubgOreCoal
+INFO: Copying contents of ore dictionary entry ubgOreCoal to oreCoal
+INFO: Adding Red Granite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Black Granite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Rhyolite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Andesite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Gabbro Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Basalt Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Komatiite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Dacite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Gneiss Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Eclogite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Marble Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Quartzite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Blue Schist Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Green Schist Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Soapstone Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Migmatite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Limestone Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Chalk Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Shale Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Siltstone Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Lignite Block Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Dolomite Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Greywacke Iron Ore to ore dictionary entry ubgOreIron
+INFO: Adding Chert Iron Ore to ore dictionary entry ubgOreIron
+INFO: Copying contents of ore dictionary entry ubgOreIron to oreIron
+INFO: Adding Red Granite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Black Granite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Rhyolite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Andesite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Gabbro Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Basalt Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Komatiite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Dacite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Gneiss Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Eclogite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Marble Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Quartzite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Blue Schist Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Green Schist Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Soapstone Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Migmatite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Limestone Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Chalk Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Shale Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Siltstone Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Lignite Block Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Dolomite Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Greywacke Gold Ore to ore dictionary entry ubgOreGold
+INFO: Adding Chert Gold Ore to ore dictionary entry ubgOreGold
+INFO: Copying contents of ore dictionary entry ubgOreGold to oreGold
+INFO: Adding Red Granite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Black Granite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Rhyolite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Andesite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Gabbro Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Basalt Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Komatiite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Dacite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Gneiss Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Eclogite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Marble Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Quartzite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Blue Schist Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Green Schist Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Soapstone Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Migmatite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Limestone Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Chalk Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Shale Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Siltstone Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Lignite Block Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Dolomite Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Greywacke Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Adding Chert Redstone Ore to ore dictionary entry ubgOreRedstone
+INFO: Copying contents of ore dictionary entry ubgOreRedstone to oreRedstone
+INFO: Adding Red Granite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Black Granite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Rhyolite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Andesite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Gabbro Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Basalt Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Komatiite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Dacite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Gneiss Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Eclogite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Marble Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Quartzite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Blue Schist Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Green Schist Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Soapstone Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Migmatite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Limestone Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Chalk Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Shale Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Siltstone Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Lignite Block Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Dolomite Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Greywacke Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Adding Chert Lapis Lazuli Ore to ore dictionary entry ubgOreLapis
+INFO: Copying contents of ore dictionary entry ubgOreLapis to oreLapis
+INFO: Adding Red Granite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Black Granite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Rhyolite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Andesite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Gabbro Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Basalt Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Komatiite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Dacite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Gneiss Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Eclogite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Marble Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Quartzite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Blue Schist Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Green Schist Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Soapstone Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Migmatite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Limestone Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Chalk Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Shale Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Siltstone Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Lignite Block Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Dolomite Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Greywacke Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Adding Chert Diamond Ore to ore dictionary entry ubgOreDiamond
+INFO: Copying contents of ore dictionary entry ubgOreDiamond to oreDiamond
+INFO: Adding Red Granite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Black Granite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Rhyolite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Andesite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Gabbro Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Basalt Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Komatiite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Dacite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Gneiss Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Eclogite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Marble Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Quartzite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Blue Schist Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Green Schist Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Soapstone Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Migmatite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Limestone Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Chalk Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Shale Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Siltstone Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Lignite Block Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Dolomite Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Greywacke Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Adding Chert Emerald Ore to ore dictionary entry ubgOreEmerald
+INFO: Copying contents of ore dictionary entry ubgOreEmerald to oreEmerald
+INFO: Copying contents of ore dictionary entry blockQuartz to burntQuartz
+INFO: Copying contents of ore dictionary entry burntQuartz to blockQuartz
+INFO: Dummy action for catching reload event
