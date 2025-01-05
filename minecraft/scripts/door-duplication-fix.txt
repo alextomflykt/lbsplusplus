@@ -1,0 +1,18 @@
+val iron_ingot = <ore:ingotIron>;
+val planks = <ore:plankWood>;
+
+recipes.remove(<minecraft:wooden_door>);
+recipes.addShaped(<minecraft:wooden_door>,
+[
+[planks, planks, null],
+[planks, planks, null],
+[planks, planks, null]
+]);
+
+recipes.remove(<minecraft:iron_door>);
+recipes.addShaped(<minecraft:iron_door>,
+[
+[iron_ingot, iron_ingot, null],
+[iron_ingot, iron_ingot, null],
+[iron_ingot, iron_ingot, null]
+]);
