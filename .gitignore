@@ -7,8 +7,8 @@ minecraft/config/InvTweaks.cfg
 minecraft/config/UniqueNames.txt
 minecraft/config/angelica-modules.cfg
 minecraft/config/hodgepodgeEarly.properties
-minecraft/config/splash.properties b/minecraft/config/splash.properties
-minecraft/coretweaks/cache/classTransformerLite.cache b/minecraft/coretweaks/cache/
+minecraft/config/splash.properties
+minecraft/coretweaks/cache/classTransformerLite.cache
 minecraft/coretweaks/out/transformercache_profiler.csv
 minecraft/journeymap/
 minecraft/logs/
@@ -18,3 +18,4 @@ minecraft/mods/mcheli/assets/mcheli/lang/en_US.lang
 minecraft/mods/mcheli/assets/mcheli/lang/ja_JP.lang
 minecraft/mods/mcheli/assets/mcheli/sounds.json
 dev-documentation.txt
+minecraft/coretweaks/cache/jarDiscoverer.cache
