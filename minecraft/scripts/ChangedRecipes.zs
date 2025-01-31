@@ -23,6 +23,7 @@ recipes.addShaped(<minecraft:iron_door>,
 // Fixes Et futurum smooth stone being uncraftable
 val circuit_plate = <ProjRed|Core:projectred.core.part>;
 furnace.remove(<*>, <ore:stone>);
+furnace.addRecipe(<ProjRed|Core:projectred.core.part> * 2, <ore:stone>);
 recipes.addShaped(<etfuturum:smooth_stone>,
 [
 [circuit_plate, null],
